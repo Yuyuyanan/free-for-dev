@@ -1780,3 +1780,4 @@ Update Time, five active automations, webhooks.
 HTML Themes and UI Kits to create your applications faster!
 
 **[⬆️ Back to Top](#table-of-contents)**
+[Mini-Tools.uk](https://mini-tools.uk) - A suite of 20+ privacy-first, 100% client-side web utilities including PDF extractors and JSON formatters.
